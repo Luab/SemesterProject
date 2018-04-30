@@ -1,0 +1,6 @@
+pactools
+mne
+scipy
+pandas
+matplotlib
+numpy
